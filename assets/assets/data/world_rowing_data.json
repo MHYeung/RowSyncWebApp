@@ -1,0 +1,25 @@
+{
+    
+  "boat_classes": [
+    { "class": "M1x", "name": "Men's Single Sculls", "world_best_time_seconds": 391.94 },
+    { "class": "W1x", "name": "Women's Single Sculls", "world_best_time_seconds": 431.35 },
+    { "class": "M8+", "name": "Men's Eight", "world_best_time_seconds": 318.68 },
+    { "class": "W8+", "name": "Women's Eight", "world_best_time_seconds": 354.14 },
+    { "class": "M4-", "name": "Men's Four", "world_best_time_seconds": 335.71 },
+    { "class": "W4-", "name": "Women's Four", "world_best_time_seconds": 367.19 },
+    { "class": "M2x", "name": "Men's Double Sculls", "world_best_time_seconds": 370.12 },
+    { "class": "W2x", "name": "Women's Double Sculls", "world_best_time_seconds": 400.45 },
+    { "class": "LM1x", "name": "Lightweight Men's Single Sculls", "world_best_time_seconds": 399.56 },
+    { "class": "LW1x", "name": "LightweightWomen's Single Sculls", "world_best_time_seconds": 440.67 },
+    { "class": "LM2x", "name": "Lightweight Men's Double Sculls", "world_best_time_seconds": 380.45 },
+    { "class": "LW2x", "name": "Lightweight Women's Double Sculls", "world_best_time_seconds": 410.78 },
+    { "class": "LM4-", "name": "Lightweight Men's Four", "world_best_time_seconds": 350.23 },
+    { "class": "LW4-", "name": "Lightweight Women's Four", "world_best_time_seconds": 380.56 },
+    { "class": "M4x", "name": "Men's Quadruple Sculls", "world_best_time_seconds": 325.45 },
+    { "class": "W4x", "name": "Women's Quadruple Sculls", "world_best_time_seconds": 360.78 },
+    { "class": "M2-", "name": "Men's Pair", "world_best_time_seconds": 340.12 },
+    { "class": "W2-", "name": "Women's Pair", "world_best_time_seconds": 370.45 },
+    { "class": "M4+", "name": "Coxed Men's Four", "world_best_time_seconds": 330.67 },
+    { "class": "W4+", "name": "Coxed Women's Four", "world_best_time_seconds": 360.89 }
+  ]
+}
